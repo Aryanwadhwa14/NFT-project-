@@ -14,6 +14,7 @@ Ruru NFT is a decentralized platform showcasing unique digital assets in the for
 - **Frontend:** HTML, CSS, JavaScript
 - **Blockchain:** Polygon, Ethereum, Solana
 - **Hosting:** Netlify
+- **Backend:**  JavaScript , Node.js 
 
 ## How to Use
 1. Visit the website [Ruru NFT](https://ruru-nft.netlify.app/).
